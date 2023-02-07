@@ -14,7 +14,7 @@
         align-items: center;
         height: 100%;
         width: 300px;
-        background: #FFD500;
+        background: #ffd500;
         form {
             position: relative;
             width: 260px;
@@ -65,17 +65,17 @@
             display: block;
             font-size: 28px;
             line-height: 33px;
-            color: #D6D9DC;
+            color: #d6d9dc;
             text-decoration: none;
             font-weight: 300;
             padding-left: 40px;
             margin-top: 18px;
             &:hover {
-                color: #FFD500;
+                color: #ffd500;
             }
             &_active {
-                border-left: 2px solid  #FFD500;
-                color:  #FFD500;
+                border-left: 2px solid #ffd500;
+                color: #ffd500;
             }
         }
     }
@@ -92,14 +92,14 @@
         font-weight: bold;
         font-size: 18px;
         line-height: 21px;
-        color: #FFFFFF;
+        color: #ffffff;
         text-transform: uppercase;
     }
     &__title {
         font-weight: bold;
         font-size: 48px;
         line-height: 56px;
-        color: #FFFFFF;
+        color: #ffffff;
         text-transform: uppercase;
     }
     &__descr {
@@ -107,7 +107,7 @@
         font-weight: bold;
         font-size: 18px;
         line-height: 21px;
-        color: #FFFFFF;
+        color: #ffffff;
         text-transform: uppercase;
     }
     &__ratings {
@@ -116,7 +116,7 @@
             font-weight: bold;
             font-size: 18px;
             line-height: 21px;
-            color: #FFD500;
+            color: #ffd500;
             margin-right: 25px;
         }
     }
@@ -174,7 +174,7 @@
                 display: block;
                 width: calc(100% - 40px);
                 height: 2px;
-                background-color: #FFD500;
+                background-color: #ffd500;
             }
             &:hover {
                 .delete {
@@ -207,7 +207,7 @@
                 display: inline;
                 margin-left: 10px;
             }
-            input[type="text"] {
+            input[type='text'] {
                 width: 270px;
                 height: 45px;
                 line-height: 50px;
@@ -228,11 +228,11 @@
                 margin-top: 15px;
                 width: 170px;
                 height: 45px;
-                background: #FFD500;
+                background: #ffd500;
                 font-weight: bold;
                 font-size: 14px;
                 line-height: 14px;
-                color: #FFFFFF;
+                color: #ffffff;
                 border: none;
                 outline: none;
                 cursor: pointer;
@@ -250,7 +250,7 @@
             font-weight: bold;
             font-size: 18px;
             line-height: 21px;
-            color: #FFD500;
+            color: #ffd500;
             margin: 20px 0;
             text-align: center;
         }
